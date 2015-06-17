@@ -1,2 +1,0 @@
-# MyTest
-New Test
